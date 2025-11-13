@@ -9,8 +9,10 @@ Bet on a racer and if you lose, you get tased with a safe & short electric shock
 Perfect for parties!
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/1f8a2620-f4d7-4bca-a237-c4619e562487" alt="Description of Image 1" width="300" />
-  <img src="https://github.com/user-attachments/assets/aad56672-dbec-4622-914f-0c04eeb1a840" alt="Description of Image 2" width="313" />
+  <img src="https://github.com/user-attachments/assets/1f8a2620-f4d7-4bca-a237-c4619e562487" alt="irl taser" width="200" />
+  <img src="https://github.com/user-attachments/assets/aad56672-dbec-4622-914f-0c04eeb1a840" alt="cad taser" width="213" />
+  <img src="https://github.com/user-attachments/assets/2a89f124-a637-4186-8f71-3b8cbd7e81dc" alt="prompt website" width="185" />
+
 </div>
 
 ---
