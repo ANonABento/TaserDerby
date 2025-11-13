@@ -8,8 +8,8 @@ const int RELAY_PIN = 4;
 const int PULSE_DURATION = 50; 
 
 // Wi-Fi network credentials - **MUST BE CHANGED** 
-const char* ssid = "Shiba 8"; // 165KingWest 
-const char* password = "88888888"; //165Budds
+const char* ssid = "WIFI_NAME_HERE"; 
+const char* password = "WIFI_PASSWORD_HERE"; 
 
 WebServer server(80);
 
