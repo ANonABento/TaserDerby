@@ -123,8 +123,8 @@ This part configures the frontend to target the hardware.
 <table style="width: 100%; border: none;">
   <tr>
     <td>
-  <img src="https://github.com/user-attachments/assets/9a5bb126-29f2-465a-adb6-dba7af6d6509" alt="website start" width="400" />
-  <img src="https://github.com/user-attachments/assets/94e13cbd-f902-4a10-a81e-c77b07da6697" alt="website during" width="404" />
+  <img src="https://github.com/user-attachments/assets/9a5bb126-29f2-465a-adb6-dba7af6d6509" alt="website start" width="380" />
+  <img src="https://github.com/user-attachments/assets/94e13cbd-f902-4a10-a81e-c77b07da6697" alt="website during" width="384" />
     </td>
   </tr>
 </table>
