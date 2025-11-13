@@ -116,6 +116,11 @@ This part configures the frontend to target the hardware.
     ```
     The web application will now be running (usually at `http://localhost:5173`) and ready to communicate with your ESP32.
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/9a5bb126-29f2-465a-adb6-dba7af6d6509" alt="website start" width="400" />
+  <img src="https://github.com/user-attachments/assets/94e13cbd-f902-4a10-a81e-c77b07da6697" alt="website during" width="404" />
+</div>
+
 ---
 
 ## 🕹️ Usage (The Game Flow)
